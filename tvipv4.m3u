@@ -687,3 +687,115 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+#EXTINF:-1,Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1,Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1,I IPTV [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1,BanglaTV USA
+http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1,IBTV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1,itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,Time TV
+http://208.86.19.13:81/506.stream/index.m3u8
+#EXTINF:-1,Iqra Bangla
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1,Channel I 🇧🇩
+http://162.244.81.142:1935/live/livestream/chunklist_w1355945905.m3u8
+#EXTINF:-1,Deepto Tv 🇧🇩
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1,I TV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1,R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1,deepto
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
+#EXTINF:-1,Sony Aath
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
+#EXTINF:-1,SANGEET BANGLA
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+#EXTINF:-1,IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8?
+#EXTINF:-1,CHANNEL I
+http://208.86.19.13:81/510.stream/index.m3u8?
+#EXTINF:-1,Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1,Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1,Sky Sports Golf.
+http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1,Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+#EXTINF:-1,FOXSPORTS 3 HD.
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1,GOLTV HD.
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:-1,TyCSports HD.
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1,LIVE 1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1,ASTRO SUPER SPORTS
+https://mlb.mrgamingstreams.com/astro.m3u8
+#EXTINF:-1,SUPER SPORTS VARIETY 2
+https://mlb.mrgamingstreams.com/variety2.m3u8
+#EXTINF:-1,SUPER SPORTS VARIETY 3
+https://mlb.mrgamingstreams.com/variety3.m3u8
+#EXTINF:-1,ASPORT
+http://66.160.192.241/aspor/index.m3u8
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
+#EXTINF:-1,QSPORT
+http://89.254.128.5:22280/qsport/index.m3u8
+#EXTINF:-1,SAN MARINO SPORT
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1,Sports tv
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1,OPTUS SPORTS 1
+https://mlb.mrgamingstreams.com/hubprem.m3u8
+#EXTINF:-1,PREMIER SPORTS1
+https://mlb.mrgamingstreams.com/prem.m3u8
+#EXTINF:-1,USAN SPORT
+https://mlb.mrgamingstreams.com/usan.m3u8
+#EXTINF:-1,SPORTS 1 HD
+https://mlb.mrgamingstreams.com/espn2.m3u8
+#EXTINF:-1,Hub Premier 2 HD
+https://mlb.mrgamingstreams.com/hubprem2.m3u8
+#EXTINF:-1,Hub Premier 2 HD
+https://mlb.mrgamingstreams.com/hubprem3.m3u8
+#EXTINF:-1,EDGE SPORTS
+http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Somoy TV
+http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,Ekhon TV
+http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1,Nexus TV
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1,ATN Bangla
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1,Banglavision HD
+https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1,Boishakhi TV
+https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1,Bijoy TV
+https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:-1,Ekhon TV
+https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1,Green TV
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1,Jamuna TV
+https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,Mohona TV HD
+https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1,News 24 HD
+https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1,RTV HD
+https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,SATV HD
+https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1,Dipto TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifes
