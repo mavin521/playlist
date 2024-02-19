@@ -549,7 +549,7 @@ https://epg.pw/stream/972ee8fbffc8df828a6805a868b7191ac0d7d9cd6032e3636c6683decd
 http://110.72.87.140:808/hls/62/index.m3u8
 #EXTINF:-1,星空卫视
 http://110.72.81.200:808/hls/60/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/台视" tvg-id="台视" tvg-name="台视" group-title="国际",台视
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/台视" tvg-id="台视" tvg-name="台视" group-title="其它",台视
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1,大愛
 https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
