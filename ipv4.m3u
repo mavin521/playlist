@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="其它",咪咕8K
-https://epg.pw/stream/eca2361574daa312fa585112e1d36302c42fd0e70633334db3f524e855e98fff.m3u8
 #EXTINF:-1 group-title="其它",咪咕精彩足球
 https://epg.pw/stream/fa95111637d3aa1d5d463a3d7ba5842ea7cb83e14d2b192a7585bea4f9cda472.m3u8
 #EXTINF:-1 group-title="其它",咪咕综合体育
 https://epg.pw/stream/972ee8fbffc8df828a6805a868b7191ac0d7d9cd6032e3636c6683decdba5d26.m3u8
-#EXTINF:-1 group-title="其它",凤凰卫视
-http://110.72.87.140:808/hls/62/index.m3u8
-#EXTINF:-1 group-title="其它",星空卫视
-http://110.72.81.200:808/hls/60/index.m3u8
-#EXTINF:-1 group-title="其它",大愛
-https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
 #EXTINF:-1 group-title="其它",漫威电影
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 group-title="其它",斗鱼1
