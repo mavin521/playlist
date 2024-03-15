@@ -39,10 +39,10 @@ http://epg.112114.xyz/douyu/252802
 https://epg.pw/stream/fa95111637d3aa1d5d463a3d7ba5842ea7cb83e14d2b192a7585bea4f9cda472.m3u8
 #EXTINF:-1 group-title="其它",咪咕综合体育
 https://epg.pw/stream/972ee8fbffc8df828a6805a868b7191ac0d7d9cd6032e3636c6683decdba5d26.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15906
 #EXTINF:-1,FOX SPORTS 1
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15907
+#EXTINF:-1,FOX SPORTS 2 HD
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15906
 #EXTINF:-1,ESPN HD
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15976
 #EXTINF:-1,BT SPORT 1 (UK)
@@ -55,30 +55,30 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20819
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/24304
 #EXTINF:-1,SKY SPORTS ARENA
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20827
-#EXTINF:-1,SY SPORTS F1
+#EXTINF:-1,SKY SPORTS F1
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20828
-#EXTINF:-1,SY  SPORTS FOOTBALL
+#EXTINF:-1,SKY  SPORTS FOOTBALL
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20829
-#EXTINF:-1,SY SPORTS MIX
+#EXTINF:-1,SKY SPORTS MIX
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20830
-#EXTINF:-1,SY SPORTS PREM LEAG
+#EXTINF:-1,SKY SPORTS PREM LEAG
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20831
-#EXTINF:-1,SY SPORTS GOLF
+#EXTINF:-1,SKY SPORTS GOLF
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20833
-#EXTINF:-1,SY SPORTS MAIN EVENT
+#EXTINF:-1,SKY SPORTS MAIN EVENT
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20832
-#EXTINF:-1,SY SPORTS CRICKET
+#EXTINF:-1,SKY SPORTS CRICKET
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20834
-#EXTINF:-1,SY SPORTS ACTION
+#EXTINF:-1,SKY SPORTS ACTION
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20835
 #EXTINF:-1,FIGHT NETWORK (CA)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/21426
-#EXTINF:-1,NBA TV (US)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/12722
 #EXTINF:-1,WWE HD (US)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15877
 #EXTINF:-1,TENNIS CHANNEL (US)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15880
+#EXTINF:-1,NBA TV (US)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/12722
 #EXTINF:-1,NBA 1 HD
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971489
 #EXTINF:-1,NBA 2 HD
@@ -91,23 +91,5 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971492
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971493
 #EXTINF:-1,NBA 6 HD
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971494
-#EXTINF:-1,NBA 7 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971495
-#EXTINF:-1,NBA 8 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971496
-#EXTINF:-1,NBA 9 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971497
-#EXTINF:-1,NBA 10 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971498
-#EXTINF:-1,NBA 11 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971499
-#EXTINF:-1,NBA 12 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971500
-#EXTINF:-1,NBA 13 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971501
-#EXTINF:-1,NBA 14 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971502
-#EXTINF:-1,NBA 15 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971503
 #EXTINF:-1,PPV 
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/1022701
