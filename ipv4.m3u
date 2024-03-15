@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="其它",CCTV-5
 http://222.173.147.142:8888/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="其它",CCTV-5+
+http://222.173.147.142:8888/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 group-title="其它",漫威电影
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 group-title="其它",斗鱼1
