@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="其它",咪咕精彩足球
-https://epg.pw/stream/fa95111637d3aa1d5d463a3d7ba5842ea7cb83e14d2b192a7585bea4f9cda472.m3u8
-#EXTINF:-1 group-title="其它",咪咕综合体育
-https://epg.pw/stream/972ee8fbffc8df828a6805a868b7191ac0d7d9cd6032e3636c6683decdba5d26.m3u8
+#EXTINF:-1 group-title="其它",CCTV-5
+http://222.173.147.142:8888/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 group-title="其它",漫威电影
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 group-title="其它",斗鱼1
@@ -35,6 +33,10 @@ http://epg.112114.xyz/douyu/2793084
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 group-title="其它",贝爷影厅
 http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="其它",咪咕精彩足球
+https://epg.pw/stream/fa95111637d3aa1d5d463a3d7ba5842ea7cb83e14d2b192a7585bea4f9cda472.m3u8
+#EXTINF:-1 group-title="其它",咪咕综合体育
+https://epg.pw/stream/972ee8fbffc8df828a6805a868b7191ac0d7d9cd6032e3636c6683decdba5d26.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15906
 #EXTINF:-1,FOX SPORTS 1
