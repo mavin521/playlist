@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="体育",CCTV-5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5
 http://mgsp-tx.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=9a157a5e1c18215aa13250829c410d51&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20240319181130&Channel_ID=0116_2600000800-99000-200300110100001&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=114.222.135.67&SecurityKey=20240319181130&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-7.3.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&jid=9a157a5e1c18215aa13250829c410d511710843091578V&is_advertise=0&sjid=subsession_1710843179811&mtv_session=7b8a4bb758b830f03361094a9a8eedd1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=39ea2bfafc73ff144650038ca5342b88
 #EXTINF:-1 group-title="体育",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5+
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=9a157a5e1c18215aa13250829c410d51&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20240319181757&Channel_ID=0116_2600000800-99000-200300110100001&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=114.222.135.67&SecurityKey=20240319181757&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-7.3.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&puData=4f586dded09eca2eb388390c52ba1bdd&ddCalcu=d4dfeb51181a60bd2d5ecd00993e8c8a32be&jid=9a157a5e1c18215aa13250829c410d511710843478894V&is_advertise=0&sjid=subsession_1710843567052
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",CHC家庭
 https://node1.olelive.com:6443/live/CHCJIATING/hls.m3u8
