@@ -7,8 +7,6 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",CHC家庭
-https://node1.olelive.com:6443/live/CHCJIATING/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",HBO家庭
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影",HBOHD
@@ -21,8 +19,6 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpx
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
 #EXTINF:-1 group-title="电影",刘德华电影
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 group-title="电影",林正英电影
-http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 group-title="电影",电影轮播
 http://epg.112114.xyz/douyu/413573
 #EXTINF:-1 group-title="电影",漫威电影
