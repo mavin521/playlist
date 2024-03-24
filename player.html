@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>流媒体播放器</title>
-    <meta charset="UTF-8"> <!-- 确保文档以UTF-8编码处理 -->
+    <title>Streaming Media Player</title>
+    <meta charset="UTF-8">
 </head>
 <body>
 
-<h2>输入流媒体直播源地址：</h2>
-<input type="text" id="streamURL" placeholder="输入直播源地址">
-<button onclick="playStream()">播放</button>
+<h2>Enter the streaming media URL:</h2>
+<input type="text" id="streamURL" placeholder="Enter the stream URL">
+<button onclick="playStream()">Play</button>
 
 <video id="videoPlayer" controls autoplay style="width:100%; max-width:600px;">
-    您的浏览器不支持视频播放。
+    Your browser does not support video playback.
 </video>
 
 <script>
