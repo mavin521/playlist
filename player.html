@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>流媒体播放器</title>
+</head>
+<body>
+
+<h2>输入流媒体直播源地址：</h2>
+<input type="text" id="streamURL" placeholder="输入直播源地址">
+<button onclick="playStream()">播放</button>
+
+<video id="videoPlayer" controls autoplay style="width:100%; max-width:600px;">
+    您的浏览器不支持视频播放。
+</video>
+
+<script>
+function playStream() {
+    var videoPlayer = document.getElementById('videoPlayer');
+    var streamURL = document.getElementById('streamURL').value;
+    videoPlayer.src = streamURL;
+    videoPlayer.play();
+}
+</script>
+
+</body>
+</html>
