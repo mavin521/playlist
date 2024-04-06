@@ -8,31 +8,31 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="体育",CCTV-5+
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="电影",刘德华电影
-https://openhls-tct.douyucdn2.cn/dyliveflv3/2516864rggylzgtu_2000.m3u8?txSecret=b30eccf319eb67ae6987c203bb2f8aef&txTime=6611704e&token=h5-douyu-0-2516864-f4105d1f0c3b3c8019e65fad859b6c67&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=386225211
+https://openhls-tct.douyucdn2.cn/dyliveflv3/2516864rggylzgtu_2000.m3u8
 #EXTINF:-1 group-title="电影",漫威电影
-https://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rfSkj1qdp_2000.m3u8?txSecret=e1a95f23bb1b50eae293b7672e369cec&txTime=6611723c&token=h5-douyu-0-6140589-a7c56c8b561e09807a379573832ff0ec&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=386225216
+https://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rfSkj1qdp_2000.m3u8
 #EXTINF:-1 group-title="电影",哈利波特系列
-https://openhls-tct.douyucdn2.cn/dyliveflv3a/8814650rAbkvAL7F_2000.m3u8?txSecret=6870b8b514ea74646990edca0d4283d1&txTime=6611721a&token=h5-douyu-0-8814650-30ed266881200e09d4583002320642a4&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=386277849
+https://openhls-tct.douyucdn2.cn/dyliveflv3a/8814650rAbkvAL7F_2000.m3u8
 #EXTINF:-1 group-title="电影",欧美大片1
-https://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8?txSecret=af03bf04f95fee80c065a2bbd826c6ed&txTime=66117231&token=h5-douyu-0-20415-b37cde552e386d3fa1e4d87403038d87&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=387824831
+https://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
 #EXTINF:-1 group-title="电影",欧美大片2
-https://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rlEkf1qVA_2000.m3u8?txSecret=31ea44ef37c35823a7926b412c5a4ae9&txTime=6611751b&token=h5-douyu-0-2793084-9fa344578c575f4e262a558208b31408&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=388675518
+https://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rlEkf1qVA_2000.m3u8
 #EXTINF:-1 group-title="电影",欧美大片3
-https://openhls-tct.douyucdn2.cn/dyliveflv3/9249162rsOu8Db3N_2000.m3u8?txSecret=85cd4b912c5a4e4c42dbc90bdd6f7811&txTime=661172f1&token=h5-douyu-0-9249162-8ff98ff781ae074da4c6f2f842bfc86a&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=388582827
+https://openhls-tct.douyucdn2.cn/dyliveflv3/9249162rsOu8Db3N_2000.m3u8
 #EXTINF:-1 group-title="电影",电影轮播1
-http://openhls-tct.douyucdn2.cn/dyliveflv1/252802rkYCfhvQLD_2000.m3u8?txSecret=b175c852ddc17eac53f2319833fabc44&txTime=661172e0&token=h5-douyu-0-252802-28c67f715398b6a47f963d01528d59cf&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=388321500
+http://openhls-tct.douyucdn2.cn/dyliveflv1/252802rkYCfhvQLD_2000.m3u8
 #EXTINF:-1 group-title="电影",电影轮播2
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/8770422rAQpzcZPW_2000.m3u8?txSecret=42b09b8d86b24509587bbd36c7347c6c&txTime=66117570&token=h5-douyu-0-8770422-bdf99f43d6dc37ed99aba2601b91f8b0&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=386225317
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/8770422rAQpzcZPW_2000.m3u8
 #EXTINF:-1 group-title="电影",电影轮播3
-http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8?txSecret=be116d6fdf488745698a5c3735620c5c&txTime=661170ce&token=h5-douyu-0-747764-e9e09bdde212367e28df11fa5c971a1b&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=382068911
+http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
 #EXTINF:-1 group-title="电影",电影轮播4
-http://openhls-tct.douyucdn2.cn/dyliveflv1/36337rBKMcHFVDGS_2000.m3u8?txSecret=2a263343c92c4a2ffcbfed506b2c6eac&txTime=66117645&token=h5-douyu-0-36337-084fed31c27372817be30472ebf1ff0c&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=381664452
+http://openhls-tct.douyucdn2.cn/dyliveflv1/36337rBKMcHFVDGS_2000.m3u8
 #EXTINF:-1 group-title="电影",电影轮播5
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/263824rKGMhE9qk0_2000.m3u8?txSecret=5ec7fef8381e15c3f89b092479e85d2e&txTime=66117166&token=h5-douyu-0-263824-9e6c041dcce9564a7bcad99d8777539e&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=388266366
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/263824rKGMhE9qk0_2000.m3u8
 #EXTINF:-1 group-title="电影",电影轮播6
-http://openhls-tct.douyucdn2.cn/dyliveflv1/323876rIZUxX0E6j_2000.m3u8?txSecret=cd580f6cefb598627643337e7aeafaf5&txTime=66117660&token=h5-douyu-0-323876-662af3b81c522ce7ccc7edb28a8aefe1&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=383652844
+http://openhls-tct.douyucdn2.cn/dyliveflv1/323876rIZUxX0E6j_2000.m3u8
 #EXTINF:-1 group-title="电影",电影轮播7
-http://openhls-tct.douyucdn2.cn/dyliveflv1/4332rlPwJVxZabny_2000.m3u8?txSecret=c26a663e82f47af36753a6f7d9d49626&txTime=66117489&token=h5-douyu-0-4332-50e4fc8e44077d593401642763f3efd1&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=388321538
+http://openhls-tct.douyucdn2.cn/dyliveflv1/4332rlPwJVxZabny_2000.m3u8
 #EXTINF:-1 group-title="外国体育",FOX SPORTS 1
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15907
 #EXTINF:-1 group-title="外国体育",FOX SPORTS 2 
