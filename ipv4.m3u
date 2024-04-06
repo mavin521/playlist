@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="体育",CCTV-5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5+
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="体育",CCTV-5+
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="电影",刘德华电影
 https://openhls-tct.douyucdn2.cn/dyliveflv3/2516864rggylzgtu_2000.m3u8?txSecret=b30eccf319eb67ae6987c203bb2f8aef&txTime=6611704e&token=h5-douyu-0-2516864-f4105d1f0c3b3c8019e65fad859b6c67&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=386225211
 #EXTINF:-1 group-title="电影",漫威电影
