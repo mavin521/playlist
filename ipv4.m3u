@@ -33,10 +33,6 @@ http://openhls-tct.douyucdn2.cn/dyliveflv3a/263824rKGMhE9qk0_2000.m3u8?txSecret=
 http://openhls-tct.douyucdn2.cn/dyliveflv1/323876rIZUxX0E6j_2000.m3u8?txSecret=cd580f6cefb598627643337e7aeafaf5&txTime=66117660&token=h5-douyu-0-323876-662af3b81c522ce7ccc7edb28a8aefe1&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=383652844
 #EXTINF:-1 group-title="电影",电影轮播7
 http://openhls-tct.douyucdn2.cn/dyliveflv1/4332rlPwJVxZabny_2000.m3u8?txSecret=c26a663e82f47af36753a6f7d9d49626&txTime=66117489&token=h5-douyu-0-4332-50e4fc8e44077d593401642763f3efd1&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=388321538
-#EXTINF:-1 group-title="外国体育",BEIN SPORT EN 1
-http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/237237
-#EXTINF:-1 group-title="外国体育",BEIN SPORT EN 2
-http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/237254
 #EXTINF:-1 group-title="外国体育",FOX SPORTS 1
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15907
 #EXTINF:-1 group-title="外国体育",FOX SPORTS 2 
@@ -45,6 +41,10 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15906
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15976
 #EXTINF:-1 group-title="外国体育",ESPN HD
 http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 group-title="外国体育",WWE HD (US)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15877
+#EXTINF:-1 group-title="外国体育",FIGHT NETWORK (CA)
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/21426
 #EXTINF:-1 group-title="外国体育",BT SPORT 1 (UK)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20821
 #EXTINF:-1 group-title="外国体育",BT SPORTS 2 (UK)
@@ -73,10 +73,6 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20832
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20834
 #EXTINF:-1 group-title="外国体育",SKY SPORTS ACTION
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20835
-#EXTINF:-1 group-title="外国体育",FIGHT NETWORK (CA)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/21426
-#EXTINF:-1 group-title="外国体育",WWE HD (US)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15877
 #EXTINF:-1 group-title="外国体育",TENNIS CHANNEL (US)
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15880
 #EXTINF:-1 group-title="外国体育",NBA TV (US)
