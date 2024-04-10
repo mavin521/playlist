@@ -7,6 +7,8 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/inde
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="体育",CCTV-5+
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="电影",牛叔说电影
+https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8
 #EXTINF:-1 group-title="电影",刘德华电影
 https://openhls-tct.douyucdn2.cn/dyliveflv3/2516864rggylzgtu_2000.m3u8
 #EXTINF:-1 group-title="电影",漫威电影
