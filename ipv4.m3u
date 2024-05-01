@@ -1,25 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="体育",CCTV-5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5+
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="电影",牛叔说电影
 https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8
-#EXTINF:-1 group-title="电影",欧美大片1
+#EXTINF:-1 group-title="电影",欧美大片
 https://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
-#EXTINF:-1 group-title="电影",欧美大片2
-https://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rlEkf1qVA_2000.m3u8
-#EXTINF:-1 group-title="电影",电影轮播3
+#EXTINF:-1 group-title="电影",电影轮播1
 http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
-#EXTINF:-1 group-title="电影",电影轮播4
-http://openhls-tct.douyucdn2.cn/dyliveflv1/36337rBKMcHFVDGS_2000.m3u8
-#EXTINF:-1 group-title="电影",电影轮播5
-http://openhls-tct.douyucdn2.cn/dyliveflv3a/263824rKGMhE9qk0_2000.m3u8
-#EXTINF:-1 group-title="电影",电影轮播6
+#EXTINF:-1 group-title="电影",电影轮播2
 http://openhls-tct.douyucdn2.cn/dyliveflv1/323876rIZUxX0E6j_2000.m3u8
 #EXTINF:-1 group-title="外国体育",FOX SPORTS 1
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15907
@@ -45,8 +35,6 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/24304
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20827
 #EXTINF:-1 group-title="外国体育",SKY SPORTS F1
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20828
-#EXTINF:-1 group-title="外国体育",SKY SPORTS F1
-http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/124536.ts
 #EXTINF:-1 group-title="外国体育",SKY  SPORTS FOOTBALL
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20829
 #EXTINF:-1 group-title="外国体育",SKY SPORTS MIX
