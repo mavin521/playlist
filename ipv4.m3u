@@ -3,63 +3,21 @@
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="体育",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="新闻",CCTV-13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="记录",CCTV-9
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="电影",CCTV-6
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="电影",牛叔说电影
 https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8
-#EXTINF:-1 group-title="电影",欧美大片
-https://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
-#EXTINF:-1 group-title="电影",电影轮播1
-http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
-#EXTINF:-1 group-title="电影",电影轮播2
-http://openhls-tct.douyucdn2.cn/dyliveflv1/323876rIZUxX0E6j_2000.m3u8
-#EXTINF:-1 group-title="外国体育",FOX SPORTS 1
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15907
-#EXTINF:-1 group-title="外国体育",FOX SPORTS 2 
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15906
-#EXTINF:-1 group-title="外国体育",ESPN HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15976
+#EXTINF:-1 group-title="电影",贝爷影厅
+https://openhls-tct.douyucdn2.cn/dyliveflv1/252802rvh6OawLYi_2000.m3u8
+#EXTINF:-1 group-title="电影",特辑电影院
+https://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+#EXTINF:-1 group-title="电影",喜剧电影院
+https://openhls-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.m3u8
+#EXTINF:-1 group-title="外国体育",UFC
+http://143.244.60.30/UFC/index.m3u8
 #EXTINF:-1 group-title="外国体育",ESPN HD
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 group-title="外国体育",WWE HD (US)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15877
-#EXTINF:-1 group-title="外国体育",FIGHT NETWORK (CA)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/21426
-#EXTINF:-1 group-title="外国体育",BT SPORT 1 (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20821
-#EXTINF:-1 group-title="外国体育",BT SPORTS 2 (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20820
-#EXTINF:-1 group-title="外国体育",BT SPORT 3 (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20819
-#EXTINF:-1 group-title="外国体育",BT SPORT ESPN (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/24304
-#EXTINF:-1 group-title="外国体育",SKY SPORTS ARENA
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20827
-#EXTINF:-1 group-title="外国体育",SKY SPORTS F1
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20828
-#EXTINF:-1 group-title="外国体育",SKY  SPORTS FOOTBALL
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20829
-#EXTINF:-1 group-title="外国体育",SKY SPORTS MIX
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20830
-#EXTINF:-1 group-title="外国体育",SKY SPORTS PREM LEAG
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20831
-#EXTINF:-1 group-title="外国体育",SKY SPORTS GOLF
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20833
-#EXTINF:-1 group-title="外国体育",SKY SPORTS MAIN EVENT
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20832
-#EXTINF:-1 group-title="外国体育",SKY SPORTS CRICKET
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20834
-#EXTINF:-1 group-title="外国体育",SKY SPORTS ACTION
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20835
-#EXTINF:-1 group-title="外国体育",TENNIS CHANNEL (US)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/15880
-#EXTINF:-1 group-title="外国体育",NBA TV (US)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/12722
-#EXTINF:-1 group-title="外国体育",NBA 1 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971491
-#EXTINF:-1 group-title="外国体育",NBA 2 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971492
-#EXTINF:-1 group-title="外国体育",NBA 3 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971493
-#EXTINF:-1 group-title="外国体育",NBA 4 HD
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/971494
-#EXTINF:-1 group-title="付费体育",PPV 
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/1022701
