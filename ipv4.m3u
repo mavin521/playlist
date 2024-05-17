@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="体育",CCTV-5
+#EXTINF:-1 group-title="央视",CCTV-5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="体育",CCTV-5+
+#EXTINF:-1 group-title="央视",CCTV-5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="新闻",CCTV-13
+#EXTINF:-1 group-title="央视",CCTV-13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="记录",CCTV-9
+#EXTINF:-1 group-title="央视",CCTV-9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="电影",CCTV-6
+#EXTINF:-1 group-title="央视",CCTV-6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="电影",牛叔说电影
 https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8
@@ -19,5 +19,7 @@ https://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 https://openhls-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.m3u8
 #EXTINF:-1 group-title="外国体育",UFC
 http://143.244.60.30/UFC/index.m3u8
-#EXTINF:-1 group-title="外国体育",ESPN HD
+#EXTINF:-1 group-title="外国体育",ESPN
 http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 group-title="外国体育",F1
+https://m3u8.qr-build.club/pALb4d1OZNgoqSdQ_nYqMw/1715984333/uk_ssf1/tracks-v1a1/mono.m3u8
