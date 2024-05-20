@@ -1,14 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视",CCTV-1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/400251745.ts
 #EXTINF:-1 group-title="央视",CCTV-6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 group-title="央视",CCTV-9
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/62856.ts
+#EXTINF:-1 group-title="央视",CCTV-13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="电影",牛叔说电影
 https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8
 #EXTINF:-1 group-title="电影",贝爷影厅
@@ -17,7 +21,63 @@ https://openhls-tct.douyucdn2.cn/dyliveflv1/252802rvh6OawLYi_2000.m3u8
 https://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 #EXTINF:-1 group-title="电影",喜剧电影院
 https://openhls-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.m3u8
-#EXTINF:-1 group-title="外国体育",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+#EXTINF:-1 group-title="体育",UFC HD
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181532.ts
+#EXTINF:-1 group-title="体育",UFC Fight Pass
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/386092.ts
+#EXTINF:-1 group-title="体育",WWE NETWORK
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181444.ts
+#EXTINF:-1 group-title="体育",RED BULL TV
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/32136.ts
+#EXTINF:-1 group-title="体育",Sky MOTO GP 
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/35386.ts
+#EXTINF:-1 group-title="体育",SKY SPORTS F1
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/153701.ts
+#EXTINF:-1 group-title="体育",DAZN F1 
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165973.ts
+#EXTINF:-1 group-title="体育",bein sports 1 fr
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/78.ts
+#EXTINF:-1 group-title="体育",bein sports 2 fr
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/103.ts
+#EXTINF:-1 group-title="体育",BT SPORT 1 
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/13780.ts
+#EXTINF:-1 group-title="体育",BT SPORT 2
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/13779.ts
+#EXTINF:-1 group-title="体育",BT SPORT 3 
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/13778.ts
+#EXTINF:-1 group-title="体育",BT SPORT 4
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/153713.ts
+#EXTINF:-1 group-title="体育",premier SPORT 1
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/191694.ts
+#EXTINF:-1 group-title="体育",premier SPORT 2
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/189891.ts
+#EXTINF:-1 group-title="体育",ESPN HD
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/185619.ts
+#EXTINF:-1 group-title="体育",ESPN 2 HD
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181514.ts
+#EXTINF:-1 group-title="体育",FOX SPORTS 1
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181440.ts
+#EXTINF:-1 group-title="体育",FOX SPORTS 2
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181441.ts
+#EXTINF:-1 group-title="体育",Sport TV 1
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165647.ts
+#EXTINF:-1 group-title="体育",Sport TV 2
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165648.ts
+#EXTINF:-1 group-title="体育",Sport TV 3
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165649.ts
+#EXTINF:-1 group-title="体育",port TV 4
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165650.ts
+#EXTINF:-1 group-title="体育",Sport TV 5
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165651.ts
+#EXTINF:-1 group-title="体育",SPORT TV 6
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/400229659.ts
+#EXTINF:-1 group-title="体育",Eleven Sports 1
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165619.ts
+#EXTINF:-1 group-title="体育",Eleven Sports 2
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165654.ts
+#EXTINF:-1 group-title="体育",Eleven Sports 3
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165654.ts
+#EXTINF:-1 group-title="外国体育",ESPN HD
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 group-title="外国体育",UFC HD
 http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145479.ts
