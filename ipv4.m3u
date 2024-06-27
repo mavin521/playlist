@@ -16,7 +16,7 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="电影",牛叔说电影
 https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8
 #EXTINF:-1 group-title="电影",贝爷影厅
-https://openhls-tct.douyucdn2.cn/dyliveflv1/252802rLd2lrzxeP_2000.m3u8
+
 #EXTINF:-1 group-title="电影",网神影厅
 https://openhls-tct.douyucdn2.cn/dyliveflv1/508118riT29TStvz_2000.m3u8
 #EXTINF:-1 group-title="电影",特辑电影院
@@ -25,159 +25,36 @@ https://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 https://openhls-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.m3u8
 #EXTINF:-1 group-title="体育",zhangzhilei
 http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/34162.ts
-#EXTINF:-1 group-title="体育",UFC HD
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181532.ts
 #EXTINF:-1 group-title="体育",UFC Fight Pass
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/386092.ts
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/212529.ts
 #EXTINF:-1 group-title="体育",WWE NETWORK
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181444.ts
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181443.ts
 #EXTINF:-1 group-title="体育",RED BULL TV
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/32136.ts
-#EXTINF:-1 group-title="体育",Sky MOTO GP 
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/35386.ts
-#EXTINF:-1 group-title="体育",SKY SPORTS F1
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/153701.ts
-#EXTINF:-1 group-title="体育",DAZN F1 
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165973.ts
-#EXTINF:-1 group-title="体育",bein sports 1 fr
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/78.ts
-#EXTINF:-1 group-title="体育",bein sports 2 fr
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/103.ts
-#EXTINF:-1 group-title="体育",BT SPORT 1 
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/13780.ts
-#EXTINF:-1 group-title="体育",BT SPORT 2
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/13779.ts
-#EXTINF:-1 group-title="体育",BT SPORT 3 
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/400289687.ts
+#EXTINF:-1 group-title="体育",MOTOR TREND  
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181496.ts
+#EXTINF:-1 group-title="体育",F1
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/379650.ts
+#EXTINF:-1 group-title="体育",F1 
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/191464.ts
+#EXTINF:-1 group-title="体育",BEIN SPORTS 1 FR
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/650.ts
+#EXTINF:-1 group-title="体育",BEIN SPORTS 2 FR
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/616.ts
+#EXTINF:-1 group-title="体育",TNT SPORT 1 
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/153714.ts
+#EXTINF:-1 group-title="体育",TNT SPORT 2
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/153716.ts
+#EXTINF:-1 group-title="体育",TNT SPORT 3 
 http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/13778.ts
-#EXTINF:-1 group-title="体育",BT SPORT 4
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/153713.ts
-#EXTINF:-1 group-title="体育",premier SPORT 1
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/191694.ts
-#EXTINF:-1 group-title="体育",premier SPORT 2
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/189891.ts
 #EXTINF:-1 group-title="体育",ESPN HD
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/185619.ts
+http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 group-title="体育",ESPN 2 HD
 http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181514.ts
-#EXTINF:-1 group-title="体育",FOX SPORTS 1
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181440.ts
-#EXTINF:-1 group-title="体育",FOX SPORTS 2
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/181441.ts
 #EXTINF:-1 group-title="体育",Sport TV 1
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165647.ts
-#EXTINF:-1 group-title="体育",Sport TV 2
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165648.ts
-#EXTINF:-1 group-title="体育",Sport TV 3
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165649.ts
-#EXTINF:-1 group-title="体育",port TV 4
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165650.ts
-#EXTINF:-1 group-title="体育",Sport TV 5
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165651.ts
-#EXTINF:-1 group-title="体育",SPORT TV 6
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/400229659.ts
-#EXTINF:-1 group-title="体育",Eleven Sports 1
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165619.ts
-#EXTINF:-1 group-title="体育",Eleven Sports 2
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165654.ts
-#EXTINF:-1 group-title="体育",Eleven Sports 3
-http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/165654.ts
-#EXTINF:-1 group-title="外国体育",ESPN HD
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 group-title="外国体育",UFC HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145479.ts
-#EXTINF:-1 group-title="外国体育",UFC NETWORK HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145480.ts
-#EXTINF:-1 group-title="外国体育",UFC Fight Pass
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145481.ts
-#EXTINF:-1 group-title="外国体育",WWE NETWORK
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145482.ts
-#EXTINF:-1 group-title="外国体育",RED BULL TV
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145483.ts
-#EXTINF:-1 group-title="外国体育",Sky MOTO GP 
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/160937.ts
-#EXTINF:-1 group-title="外国体育",SKY SPORTS F1 
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/189991.ts
-#EXTINF:-1 group-title="外国体育",ESP-5: DAZN F1 4K
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/126481.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORTS HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134129.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT 1 FHD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134130.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT 2
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134131.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT 3 4K
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134132.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT 1 HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134133.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT 2 HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134134.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT 3 HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134135.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT 4K
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134136.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT EUROPE FHD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134137.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT ESPN HD  4k
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134138.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT EUROPE HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134139.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT EXTRA 1 HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134140.ts
-#EXTINF:-1 group-title="外国体育",UK: BT SPORT EXTRA 2 HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/134141.ts
-#EXTINF:-1 group-title="外国体育",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/140726.ts
-#EXTINF:-1 group-title="外国体育",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/140727.ts
-#EXTINF:-1 group-title="外国体育",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN U
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/140730.ts
-#EXTINF:-1 group-title="外国体育",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | FOX SPORTS 1
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/140731.ts
-#EXTINF:-1 group-title="外国体育",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | FOX SPORTS 2
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/140732.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV +
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187450.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV + ᵁᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187451.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 1
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187452.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 2
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187455.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 2 ᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187456.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 2 ᵁᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187457.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 3
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187458.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 3 ᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187459.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 4
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187461.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 5
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187463.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV 5 ᵁᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187464.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 6
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187465.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Sport TV NBA ᵁᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187467.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 1
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187468.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 1 ᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187469.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 2
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187471.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 2 ᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187472.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 3 ᵁᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187475.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 4
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187476.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 4 ᵁᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187477.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 5
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187478.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 6
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187480.ts
-#EXTINF:-1 group-title="外国体育",PT| ᴾᴼᴿᵀᵁᴳᴬᴸ Eleven Sports 6 ᵁᴴᴰ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/187481.ts
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/21231.ts
+#EXTINF:-1 group-title="体育",EUROSPORT 1
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/194503.ts
+#EXTINF:-1 group-title="体育",EUROSPORT 2
+http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/194504.ts
+
