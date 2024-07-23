@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV-1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV1HD_360/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV2HD_360/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/400251745.ts
 #EXTINF:-1 group-title="央视",CCTV-6
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV6HD_360/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9
 http://eyhsuet.megahdtv.xyz:80/live/1187411273/0512116623/62856.ts
-#EXTINF:-1 group-title="央视",CCTV-13
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="央视",CCTV-16
+https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
 #EXTINF:-1 group-title="电影",牛叔说电影
 https://openhls-tct.douyucdn2.cn/dyliveflv1/2758565rVIROeQiW_2000.m3u8
 #EXTINF:-1 group-title="电影",贝爷影厅
